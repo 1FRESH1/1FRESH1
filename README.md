@@ -99,9 +99,10 @@
 <br>
 <br>
 
-## <b> Let's Connect..!</b><img src="https://github.com/1FRESH1/Coding---resume/blob/9e74534375964bdb7dabf22a01411011d1fb0f23/assets/handshake.gif" width ="80">
-<br>
-<div align='left'>
+
+   ## <b> Let's Connect..!</b><img src="https://github.com/1FRESH1/Coding---resume/blob/9e74534375964bdb7dabf22a01411011d1fb0f23/assets/handshake.gif" width ="80">
+
+<div align='center'>
 
 <ul>
 <!--
