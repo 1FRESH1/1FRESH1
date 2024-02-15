@@ -6,7 +6,7 @@
 </p>
 <br>
 	
-## <picture><img src = "https://github.com/1FRESH1/Portfolio/blob/558db318fd6ea5dde88434242be45f7c68fd3746/Portfolio%20dane/assets/about_me.gif" width = 150px></picture> **About me**
+## <picture><img src = "https://github.com/1FRESH1/Coding---resume/blob/ad8937ca45df1eb73c2f02bc77da8ad15b2e440e/assets/about_me.gif" width = 150px></picture> **About me**
 
 <picture> <img align="right" src="https://github.com/1FRESH1/Coding---resume/blob/3d06b8b98f5a4e02c81fe045511eddcd7586ce11/assets/programming-2.svg" width = 270px></picture>
 
