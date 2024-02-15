@@ -19,6 +19,7 @@
 - Entrepreneurship - ing
 - Print on demand
 - Lifelong Learner
+- Study by practice [link](https://github.com/1FRESH1/Coding---resume/tree/ad8937ca45df1eb73c2f02bc77da8ad15b2e440e/CODING)
 - Personal website [link](https://1fresh1.github.io/Portfolio/) ( 👷 Work in progress 👷 )
 - I’m currently open for an Intern or a new job opportunity,<br>
   this is [my resume](https://github.com/1FRESH1/Coding---resume/blob/7a6d699527f88271008eda3f191a4f90fef380f8/Resume/cv%20link.pdf)
