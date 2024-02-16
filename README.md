@@ -22,7 +22,7 @@
 - Study by practice [link](https://github.com/1FRESH1/Coding---resume/tree/51503951a3053eda3f1524bfb4319f416eaa5730/CODING)
 - Personal website [link](https://1fresh1.github.io/Portfolio/) ( 👷 Work in progress 👷 )
 - I’m currently open for an Intern or a new job opportunity,<br>
-  this is [my resume](https://github.com/1FRESH1/Coding---resume/blob/7a6d699527f88271008eda3f191a4f90fef380f8/Resume/cv%20link.pdf)
+  this is [my resume](https://github.com/1FRESH1/Coding---resume/blob/991d1db70b35de53e554b8cdb72400a89c558935/Resume/cv%20no%20nr.pdf)
 
 
 <br><br>
